@@ -1,2 +1,2 @@
 # nextjsstudy
-React/Next.jsの勉強会の予習のためのリポジトリです。
+React/Next.jsの勉強会の予習のためのリポジトリ
